@@ -1,0 +1,51 @@
+{
+  "vcon": "0.0.1",
+  "uuid": "018c1234-5678-7abc-def0-123456789abc",
+  "parties": [
+    {
+      "tel": "+1-555-0101",
+      "name": "Customer Service"
+    },
+    {
+      "tel": "+1-555-0102",
+      "name": "John Smith"
+    }
+  ],
+  "dialog": [
+    {
+      "type": "recording",
+      "start": "2024-12-05T17:00:00Z",
+      "duration": 245,
+      "parties": [0, 1],
+      "transcript": "Hello, thank you for calling TechSupport Plus. This is Sarah Johnson speaking. How can I help you today? Hi Sarah, I'm having trouble with my internet connection. It's been really slow all morning. I understand your frustration. Let me help you resolve this quickly. Can you tell me what speed you're experiencing? It's about 5 Mbps when I usually get 100. I'll run a diagnostic on your line right now. I can see there's a signal issue. I'm refreshing your connection now. That should fix it. Please test your speed again. Wow, it's back to 95 Mbps! Thank you so much Sarah, you were excellent and so quick to help. You're very welcome! Is there anything else I can assist you with today? No that's perfect. Thank you again and have a great day!"
+    },
+    {
+      "type": "recording", 
+      "start": "2024-12-05T17:05:00Z",
+      "duration": 180,
+      "parties": [0, 1],
+      "transcript": "Good afternoon, this is Mike Chen from billing support. How may I assist you? Hi, I have a question about my bill. There's a charge I don't recognize. I'd be happy to help you with that. Can you provide your account number? It's 12345. Let me look that up for you. I see the charge you're referring to. That's for the premium sports package you added last month. Oh right, I forgot about that. Thanks for clarifying. Is there anything else I can help you with? No, that answers my question. Thanks Mike!"
+    },
+    {
+      "type": "recording",
+      "start": "2024-12-05T17:10:00Z", 
+      "duration": 720,
+      "parties": [0, 1],
+      "transcript": "Hello, technical support, this is Emily Davis. Hi Emily, my WiFi router keeps disconnecting every few minutes. This is really frustrating and I need help now. I understand your frustration. Let me troubleshoot this with you. First, can you unplug your router for 30 seconds? I already tried that multiple times. This is ridiculous, I need to speak to a supervisor right away. I want to help resolve this for you first. Let me check your signal levels. Your connection shows intermittent drops. This looks like it might need a technician visit. Can I schedule that for you? Fine, but this is taking too long. When can someone come out? I can schedule a technician for tomorrow morning between 8-12. Would that work? I guess that will have to do. Thank you for your patience and I'll make sure the technician has all the details."
+    },
+    {
+      "type": "recording",
+      "start": "2024-12-05T17:15:00Z",
+      "duration": 420,
+      "parties": [0, 1],
+      "transcript": "Thank you for calling, this is Alex Rodriguez. How can I help you today? Hi Alex, I want to upgrade my internet plan. Excellent! I'd be happy to help you find the perfect plan. What speed are you looking for? I need something faster for working from home. Currently you have our 50 Mbps plan. We have 100 Mbps and 200 Mbps options available. The 200 sounds good. What's the cost? The 200 Mbps plan is $79 per month. I can activate that today and you'll see the new speeds within 2 hours. That's perfect! Please go ahead with the upgrade. Great! I've processed the upgrade. You'll receive a confirmation email shortly. Is there anything else I can help you with? No, that's everything. Thanks for the great service Alex!"
+    },
+    {
+      "type": "recording",
+      "start": "2024-12-05T17:20:00Z",
+      "duration": 890,
+      "parties": [0, 1],
+      "transcript": "Good evening, this is Jessica Wilson from technical support. Hello Jessica, my internet has been completely down for 3 hours. I work from home and this is costing me money. I'm very sorry to hear about this outage. Let me check your area for any known issues. I don't see any reported outages. Let me run diagnostics on your line. The diagnostics show your modem isn't responding. Have you tried power cycling it? Yes, I've tried everything. This is unacceptable service. I need this fixed immediately or I want to cancel my service. I completely understand your frustration. Let me escalate this to our senior technician team right away. I'm going to stay on the line with you until we get this resolved. I'm also noting this extended outage for service credit on your account. The senior tech team is now working on your connection remotely. Okay, I see my internet light is coming back on. Let me test it. Yes, it's working now! Thank you Jessica for staying with me and getting this fixed. I really appreciate your patience and I'm glad we got you back online. Have a wonderful evening!"
+    }
+  ]
+}
