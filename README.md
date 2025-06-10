@@ -25,13 +25,6 @@ Reflecta is an intelligent customer service analytics platform that processes vC
 
 ![Reflecta Dashboard](dashboard-screenshot.png)
 
-<!-- To add a screenshot: 
-1. Take a screenshot of your Reflecta dashboard
-2. In Replit, go to the 'Files' tab on the left sidebar
-3. Upload your screenshot file and rename it to 'dashboard-screenshot.png'
-4. Place it in the root directory (same level as README.md)
-5. The image will automatically display above
--->
 
 ## 🚀 Quick Start with Sample Data
 
@@ -152,21 +145,11 @@ open http://localhost:5000
 
 ## 🤝 Contributing
 
-This project was created for TADHack 2025. For questions or collaboration opportunities, please reach out through email sinczedy@gmail.com
+This project was created for TADHack 2025. For questions or collaboration opportunities, please reach out through the hackathon platform.
 
+## 📄 Copyright
 
-
-Copyright (c) 2025 Reflecta
-
-
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Reflecta is a concept and product created by Sabrina Inczedy Pagan. All rights reserved. This project is shared for demonstration purposes for TADHack 2025 only.
 
 ---
 
